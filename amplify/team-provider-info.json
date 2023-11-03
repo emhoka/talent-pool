@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-talenthub-dev-132547-authRole",
+      "UnauthRoleArn": "arn:aws:iam::121986848932:role/amplify-talenthub-dev-132547-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::121986848932:role/amplify-talenthub-dev-132547-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-talenthub-dev-132547-deployment",
+      "UnauthRoleName": "amplify-talenthub-dev-132547-unauthRole",
+      "StackName": "amplify-talenthub-dev-132547",
+      "StackId": "arn:aws:cloudformation:us-east-1:121986848932:stack/amplify-talenthub-dev-132547/43b14b10-7329-11ee-adf5-0e36ab078769",
+      "AmplifyAppId": "d10maijqox9ipf"
+    },
+    "categories": {
+      "auth": {
+        "talenthub4985fc14": {}
+      }
+    }
+  }
+}
